@@ -18,6 +18,14 @@ a:active {
     text-decoration: underline;
 }
 
+.intro-text {
+    color: slategray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
 .slide-box {
     position: relative;
     width: 100%;
