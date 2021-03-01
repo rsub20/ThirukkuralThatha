@@ -20,9 +20,7 @@ a:active {
 
 .slide-box {
     position: relative;
-    /*width: 100%;*/
-    max-width: 960px;
-    max-height: 569px;
+    width: 100%;
     padding-top: 50%;
     overflow: hidden;
 }
@@ -31,8 +29,8 @@ a:active {
     position: absolute;
     top: 0;
     left: 0;
-    /*width: 100%;*/
-    /*height: 100%;*/
+    width: 100%;
+    height: 100%;
 }
 
 .top-nav {
@@ -58,7 +56,7 @@ a:active {
     padding: 30px 10px;
     /*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);*/
     border-radius: 10px 10px 0px 0px;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .text-box {
