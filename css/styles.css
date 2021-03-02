@@ -52,7 +52,7 @@ a:active {
     margin: 30px auto;
     max-width: 500px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    border-radius: 0px 0px 10px 10px;
+    /*border-radius: 0px 0px 10px 10px;*/
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
@@ -63,11 +63,17 @@ a:active {
     color: white;
     padding: 30px 10px;
     /*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);*/
-    border-radius: 10px 10px 0px 0px;
+    /*border-radius: 10px 10px 0px 0px;*/
     font-size: 20px;
 }
 
 .text-box {
     padding: 10px;
     font-size: 20px;
+}
+
+.resource-link {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
 }
